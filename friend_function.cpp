@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-class vehical{
+class vehical{                                                                                                             
     private:
     int speed;
     public:
